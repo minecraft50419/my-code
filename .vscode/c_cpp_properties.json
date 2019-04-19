@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Wei\\AppData\\Local\\Arduino15\\packages\\LinkIt\\tools\\**",
+                "C:\\Users\\Wei\\AppData\\Local\\Arduino15\\packages\\LinkIt\\hardware\\linkit_rtos\\0.10.21\\**",
+                "C:\\\\Users\\\\Wei\\\\AppData\\\\Local\\\\Arduino15\\\\packages\\\\esp8266\\\\tools\\\\**",
+                "C:\\\\Users\\\\Wei\\\\AppData\\\\Local\\\\Arduino15\\\\packages\\\\esp8266\\\\hardware\\\\esp8266\\\\2.5.0\\\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\Wei\\AppData\\Local\\Arduino15\\packages\\LinkIt\\hardware\\linkit_rtos\\0.10.21\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
